@@ -1,6 +1,6 @@
 # Vrinda_Store_Analysis_Excel_Project
 
-  The project titled 'Vrinda Store Report 2022' aimed to help the store create an annual sales report, analyze customer behavior and boost customer sales.
+  The project titled 'Vrinda Store Annual Report 2023' aimed to help the store create an annual sales report, analyze customer behavior and boost customer sales.
 
 I performed various tasks such as **data cleaning**, **processing**, **analysis**, **visualization** and **report creation**.
 
