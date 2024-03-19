@@ -23,3 +23,6 @@ The project also answered important questions such as: -
  4️⃣ Amazon, Flipkart and Myntra channels were the top contributors (80%).
 
 🎯 The final conclusion to improve store sales is to target women customers of age group (30-49 yrs.) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+
+
+![image](https://github.com/Ganeshkarwa/Vrinda_Store_Analysis_Excel_Project/assets/140792447/1042db58-0893-42a7-925f-3bf4b8463efa)
